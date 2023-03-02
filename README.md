@@ -1,4 +1,10 @@
+## Purpose of fork: 
+In need of a shared scratchpad location I have disabled the file location naming generation from the app m5 hash and just called it data
+
+
+
 # Scratchpads README
+
 
 Create multiple scratchpad files for doodling while you're coding.
 
