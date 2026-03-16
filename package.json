@@ -1,18 +1,18 @@
 {
   "name": "scratchpads",
   "displayName": "Scratchpads",
-  "description": "Create multiple scratchpad files of different file types -- credits to origonal creator Nadav Bueno",
-  "version": "1.0.1",
-  "publisher": "monatsend",
+  "description": "Create multiple scratchpad files of different file types",
+  "version": "1.0.0",
+  "publisher": "buenon",
   "author": {
-    "name": "Leonardo Kämpf"",
-    "email": "leonardo.kaempf@gmx.de"
+    "name": "Nadav Bueno",
+    "email": "buenonadav@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/monatsend/scratchpads/blob/master/README.md",
+  "homepage": "https://github.com/buenon/scratchpads/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monatsend/scratchpads"
+    "url": "https://github.com/buenon/scratchpads"
   },
   "icon": "images/icon.png",
   "engines": {
